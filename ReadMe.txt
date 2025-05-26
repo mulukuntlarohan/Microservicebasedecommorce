@@ -1,4 +1,4 @@
--------------------------------------------------README-------------------------------------------------
+#Ecommerce
 1) The zip folder contains compressed 'backend', 'frontend', 'docker-compose.yaml', ReadMe.txt file.
 2) Extract backend and frontend folders.
 3) 'backend' contains the backend code of microservices, You can import and view them in any text editors like
